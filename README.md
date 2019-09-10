@@ -1,6 +1,6 @@
 # medicare-app
 
-A Hospital Management Application that allows hospital personnel like doctors and nurse to record and track patient details when they are either admitted or when they walk in for a checkup. The app is a move towards paperless patient record management for hospitals.
+>A Hospital Management Application that allows hospital personnel like doctors and nurse to record and track patient details when they are either admitted or when they walk in for a checkup. The app is a move towards paperless patient record management for hospitals.
   
 - Application Workflow
 
